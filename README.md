@@ -3,8 +3,8 @@ Set up git workspace on Windows.
 
 ###Downloading necessary files
 
-* Save *git-completion.bash* in your home directory with the name **git-completion.bash**.
-* Save *git-prompt.sh* in your home directory with the name **git-prompt.sh**.
+* Save **git-completion.bash** in your home directory with the name **git-completion.bash**.
+* Save **git-prompt.sh** in your home directory with the name **git-prompt.sh**.
 * Download **.bash_profile** .
 
 If you already have a file in your home directory named *.bash_profile*, copy the content from downloaded *.bash_profile* and paste it at the bottom of *.bash_profile* **in your home directory**. Otherwise, move *.bash_profile* to your home directory and rename it to *.bash_profile*. 
