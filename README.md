@@ -16,7 +16,7 @@ git config --global push.default upstream
 git config --global merge.conflictstyle diff3
 Make sure you can start your editor from Git Bash
 
-If you use Sublime, you can do this by adding the following line to your .bash_profile:
+If you use Sublime 2, you can do this by adding the following line to your .bash_profile:
 
 alias subl="C:/Program\ Files/Sublime\ Text\ 2/sublime_text.exe"
 Restart Git Bash
