@@ -14,7 +14,7 @@ Run the following Git configuration commands. The first one will need to be modi
 git config --global core.editor "'C:/Program Files/Sublime Text 2/sublime_text.exe' -n -w"
 git config --global push.default upstream
 git config --global merge.conflictstyle diff3
-Make sure you can start your editor from Git Bash.
+Make sure you can start your editor from Git Bash..
 
 If you use Sublime 2, you can do this by adding the following line to your .bash_profile:
 
